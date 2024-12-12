@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# billion
-=======
 # **Billion Management System**  
 
 ## **Overview**  
